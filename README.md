@@ -6,7 +6,14 @@ I would like to create an easily digestible way to communicate the relationship 
 
 
 ## Details
-Specifically, I hope to both legally categorize (perhaps based on [this assessment](#legal-assessment)) and visually represent the types of worries proprietary code owners have when using or interacting with different types of open-source code bases. My goal is to do for the average programmer's code-license-interaction worries what Creative Commons has done for the average graphic designer's image-licensing worries: give creators easily digestible cues as to the impact of their code use, using both language and visual icons to describe the effects of existing open-source licenses.
+Specifically, I hope to both legally categorize (perhaps based on [this assessment](#legal-assessment)) and visually represent the types of worries proprietary code owners and creators have when using, running, relying on, or interacting with open-source code under different licenses.  My goal is to do for the average programmer's code-license-interaction worries what Creative Commons has done for the average graphic designer's image-licensing worries: give creators easily digestible cues as to the impact of their code use, using both language and visual icons to describe the effects of existing open-source licenses.
+
+## Possible legal issues
+* Direct code copying (e.g., permissive MIT License vs. GPL)
+* Statically linking
+* Dynamically linking
+* Derivative works in interpreted (runtime-compiled) languages
+* ...others?
 
 ## Comparable Creative Commons Categorizations and Visual Representations
 ### Creative Commons license-descriptor icons (buttons)

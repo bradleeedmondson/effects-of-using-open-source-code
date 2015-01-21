@@ -8,12 +8,13 @@ I would like to create an easily digestible way to communicate the relationship 
 ## Details
 Specifically, I hope to both legally categorize (perhaps based on [this assessment](#legal-assessment)) and visually represent the types of worries proprietary code owners and creators have when using, running, relying on, or interacting with open-source code under different licenses.  My goal is to do for the average programmer's code-license-interaction worries what Creative Commons has done for the average graphic designer's image-licensing worries: give creators easily digestible cues as to the impact of their code use, using both language and visual icons to describe the effects of existing open-source licenses.
 
-## Possible legal issues
+## Possible Legal Issues to Assess and Graphically Represent
 * Direct code copying (e.g., permissive MIT License vs. GPL)
 * Statically linking
 * Dynamically linking
 * Derivative works in interpreted (runtime-compiled) languages
 * ...others?
+
 
 ## Comparable Creative Commons Categorizations and Visual Representations
 ### Creative Commons license-descriptor icons (buttons)
@@ -24,6 +25,11 @@ These icons are applied to individual works in order to describe what creators m
 ### Creative Commons legal-issue icons (large icons)
 Each icon represents a single legal issue, which can be used on its own when discussing that issue or incorporated into a license-descriptor icon like those above.
 ![Creative Commons large icons (each showing a single issue)](images/creative-commons-large-icons.png)
+
+
+## Intended Audience
+The intented audience for the end product is developers, policy-makers (within developer organizations) who set rules on what licenses can and cannot be incorporated into the development process, and the segment of the open-source community that purports to assist developers in selecting licenses for their own code.
+
 
 
 ## Links

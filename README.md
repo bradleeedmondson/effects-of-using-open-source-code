@@ -2,8 +2,11 @@
 I would like to create an easily digestible way to communicate the relationship of OSS with non-OSS code, illustrating how open-source and proprietary code can interact, and the legal effects of those interactions under various open-source licenses.
 
 
+
+
+
 ## Details
-Specifically, I hope to both categorize and visually represent the types of worries proprietary code owners have when using or interacting with different types of open-source code bases. My goal is to do for the average programmer's code-license-interaction worries what Creative Commons has done for the average graphic designer's image-licensing worries: give creators easily digestible cues as to the impact of their code use, using both language and visual icons to describe the effects of existing open-source licenses.
+Specifically, I hope to both legally categorize (perhaps based on [this analysis]) and visually represent the types of worries proprietary code owners have when using or interacting with different types of open-source code bases. My goal is to do for the average programmer's code-license-interaction worries what Creative Commons has done for the average graphic designer's image-licensing worries: give creators easily digestible cues as to the impact of their code use, using both language and visual icons to describe the effects of existing open-source licenses.
 
 ## Comparable Creative Commons Categorizations and Visual Representations
 ### Creative Commons license-descriptor icons (buttons)

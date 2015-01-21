@@ -6,12 +6,12 @@ I would like to create an easily digestible way to communicate the relationship 
 Specifically, I hope to both categorize and visually represent the types of worries proprietary code owners have when using or interacting with different types of open-source code bases. My goal is to do for the average programmer's code-license-interaction worries what Creative Commons has done for the average graphic designer's image-licensing worries: give creators easily digestible cues as to the impact of their code use, using both language and visual icons to describe the effects of existing open-source licenses.
 
 ## Comparable Creative Commons Categorizations and Visual Representations
-### Creative Commons button icons
+### Creative Commons license-descriptor icons (buttons)
 These icons are applied to individual works in order to describe what creators may do to them under their corresponding Creative Commons licenses. Note that they describe the license; they do not legally constitute a license on their own. Each icon represents several of the most important legal issues involved in copying or using the work to which it is affixed.
 
 ![Creative Commons button icons](/images/creative-commons-button-icons.png)
 
-### Creative Commons large icons 
+### Creative Commons legal-issue icons (large icons)
 Each icon represents a single legal issue, which can be used on its own when discussing that issue or incorporated into a license-descriptor icon like those above.
 ![Creative Commons large icons (each showing a single issue)](images/creative-commons-large-icons.png)
 

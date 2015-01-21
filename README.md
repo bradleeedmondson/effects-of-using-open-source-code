@@ -9,11 +9,11 @@ Specifically, I hope to both categorize and visually represent the types of worr
 ### Creative Commons button icons
 These icons are applied to individual works in order to describe what creators may do to them under their corresponding Creative Commons licenses. Note that they describe the license; they do not legally constitute a license on their own. Each icon represents several of the most important legal issues involved in copying or using the work to which it is affixed.
 
-![Creative Commons button icons](/Images/Creative%20Commons%20button%20icons.png)
+![Creative Commons button icons](/images/creative-commons-button-icons.png)
 
 ### Creative Commons large icons 
 Each icon represents a single legal issue, which can be used on its own when discussing that issue or incorporated into a license-descriptor icon like those above.
-![Creative Commons large icons (each showing a single issue)](Images/Creative%20Commons%20large%20icons.png)
+![Creative Commons large icons (each showing a single issue)](images/creative-commons-large-icons.png)
 
 
 ## Links

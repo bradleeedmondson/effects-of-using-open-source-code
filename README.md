@@ -36,6 +36,7 @@ The intented audience for the end product is developers, policy-makers (within d
 
 * ### Legal assessment
   * https://www.softwarefreedom.org/resources/2014/SFLC-Guide_to_GPL_Compliance_2d_ed.html
+  * http://copyleft.org/guide/
 
 * ### Example Icons
   * http://creativecommons.org/about/downloads
